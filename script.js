@@ -14,7 +14,7 @@ async function sendContact(ev) {
     }],
   };
 
-  const webhookUrl = 'https://ptb.discord.com/api/webhooks/1007691288759500891/CRUYfw1841NswMc23UvG-XbYynpx7APx55cCFYWFLz3O9-W6ePc4JiQ9fioa_dNB9BOu';
+  const webhookUrl = 'https://ptb.discord.com/api/webhooks/1061734790308581456/JcC7WqnPVBSmnnjYVYPDgYhgE3n3OVO0sKiV3Nr0A4TLZwnLh2kJVoAgO5OzdD3jOlMK';
 
   const response = await fetch(webhookUrl, {
     method: 'POST',
